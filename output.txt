@@ -1,0 +1,11 @@
+Average scores: 
+Alice: 74
+Bob: 64
+Charlie: 59
+David: 64
+Emily: 80
+Frank: 83
+Grace: 81
+Henry: 80
+Ivy: 81
+Jack: 93
